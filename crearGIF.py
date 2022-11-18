@@ -3,7 +3,7 @@
 import os
 import imageio
 
-# Ubicación de la base de datos
+# Ubicación donde se encuentran sus imagenes
 path = '/home/mario/Escritorio/crear_GIF/imagenes/'
 archivos = sorted(os.listdir(path))
 img_array = []
