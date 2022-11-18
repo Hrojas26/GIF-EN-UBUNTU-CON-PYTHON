@@ -4,3 +4,5 @@
 - *Para la correcta visualización de la explicación, (pdf) primero descargar el archivo (PROYECTOcorrerPYTHONenUBUNTU-enlace)*
 - *En el codigo (crearGIF.py) cambiar la RUTA de las imagenes por la ruta donde ustedes tengan sus imagenes.*
 
+![Texto alternativo](/archivocreado.gif.jpg "Título alternativo")
+
