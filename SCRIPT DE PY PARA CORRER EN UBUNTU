@@ -18,4 +18,4 @@ for x in range(0, len(archivos)):
     leer_imagenes = imageio.imread(dirArchivo)    
     img_array.append(leer_imagenes)
     #guardar el GIF
-    imageio.mimwrite('archivoCreado.gif', img_array, 'GIF', duration=0.1)đ
+    imageio.mimwrite('archivoCreado.gif', img_array, 'GIF', duration=0.1)
